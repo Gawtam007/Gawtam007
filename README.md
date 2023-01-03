@@ -1,17 +1,11 @@
 ### Hi there 👋
 
-
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Computer Vision
-- 🌱 I’m currently learning ... Deep Learning and Reinforcement Learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... ed19b007@smail.iitm.ac.in
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Autonomous Racing
+- 🌱 I’m currently learning ... Reinforcement Learning
+- 👯 I’m looking to collaborate on ... 
+- 📫 How to reach me: ... gawtamcr@smail.iitm.ac.in
 
 ### Connect with me:
 
@@ -32,7 +26,7 @@ Here are some ideas to get you started:
 </details>
 
 [twitter]: https://twitter.com/Gawtam10
-[instagram]: https://instagram.com/gawtamcr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://instagram.com/_crg_03_
+[linkedin]: https://linkedin.com/in/gawtamcr
 
 
