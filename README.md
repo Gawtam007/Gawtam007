@@ -2,9 +2,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Autonomous Racing
-- 🌱 I’m currently learning ... Reinforcement Learning
-- 👯 I’m looking to collaborate on ... 
 - 📫 How to reach me: ... gawtamcr@smail.iitm.ac.in
 
 ### Connect with me:
