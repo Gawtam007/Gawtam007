@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 📫 How to reach me: ... gawtamcr@smail.iitm.ac.in
+- 📫 How to reach me: ... gawtam@kth.se
 
 ### Connect with me:
 
